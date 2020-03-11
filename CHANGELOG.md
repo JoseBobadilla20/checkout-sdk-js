@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.52.2-alpha.c8e4667d398cb7f0d038056ee07a93bf8ec21d51](https://github.com/bigcommerce/checkout-sdk-js/compare/v1.52.1...v1.52.2-alpha.c8e4667d398cb7f0d038056ee07a93bf8ec21d51) (2020-03-11)
+
+
+### Features
+
+* **checkout:** INT-1434 Creating klarnav2 strategy to support multi-option ([c8e4667](https://github.com/bigcommerce/checkout-sdk-js/commit/c8e4667))
+
 ### [1.52.1](https://github.com/bigcommerce/checkout-sdk-js/compare/v1.52.0...v1.52.1) (2020-02-12)
 
 
